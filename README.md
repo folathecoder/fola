@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=WebStacky.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://webstacky.com)
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Frontend Software Engineer 
 
 - 🔭 I just launched my digital marketing agency - WebStacky!
 - 🌱 I’m currently learning ways to make the web more accessible to everyone
@@ -43,7 +43,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.folathecoder.vercel.app/api?username=folathecoder&show_icons=true&hide_border=true" />
 
 </details>
 
