@@ -47,6 +47,12 @@
 
 </details>
 
-[website]: https://webstacky.com
-[twitter]: https://twitter.com/folathecoder
+[website]: https://codeSTACKr.com
+[course]: http://vsCodeHero.com
+[twitter]: https://twitter.com/
+[youtube]: https://youtube.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/codeSTACKr
+[webdevplaylist]: https://www.webstacky.com/
+[jsplaylist]: https://www.webstacky.com/
+[cssplaylist]: https://www.webstacky.com/
+[reactplaylist]: https://www.webstacky.com/
