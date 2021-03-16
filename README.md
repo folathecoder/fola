@@ -43,8 +43,8 @@
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/folathecoder
 [youtube]: https://youtube.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.webstacky.com/
-[jsplaylist]: https://www.webstacky.com/
-[cssplaylist]: https://www.webstacky.com/
-[reactplaylist]: https://www.webstacky.com/
+[linkedin]: https://linkedin.com/in/akinloye-folarin
+[webdevplaylist]: #
+[jsplaylist]: #
+[cssplaylist]: #
+[reactplaylist]: #
