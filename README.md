@@ -1,19 +1,19 @@
 ### Hi there, I'm Fola 👋
 
-[![Website](https://img.shields.io/website?label=WebStacky.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://webstacky.com)
+[![Portfolio](https://img.shields.io/website?label=PORTFOLIO&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://folathecoder.netlify.app/)
 
 ## I'm a Frontend Software Engineer 
 
-- 🔭 I just launched my digital marketing agency - WebStacky!
+- 🔭 I am currently working on a side project - WebStacky!
 - 🌱 I’m currently learning ways to make the web more accessible to everyone
 - 👯 I’m looking to collaborate with other developers or dev teams that want to make a change with code
-- 🥅 2021 Goals: Contribute more to Open Source projects and add more stacks under my belt (Python and Go)
+- 🥅 2021 Goals: Contribute more to Open Source projects and add more stacks under my belt (Solidity and Node.JS)
 - ⚡ Fun fact: I am also a professional Copywriter and Digital Marketer
 
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
@@ -27,9 +27,6 @@
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][webdevplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 
@@ -39,7 +36,7 @@
 ---
 
 
-[website]: https://webstacky.com
+[portfolio]: https://folathecoder.netlify.app/
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/folathecoder
 [youtube]: https://youtube.com/codeSTACKr
