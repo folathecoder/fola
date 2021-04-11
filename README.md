@@ -2,7 +2,7 @@
 
 [![Portfolio](https://img.shields.io/website?label=PORTFOLIO&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://folathecoder.netlify.app/)
 
-## I'm a Frontend Software Engineer 
+## I'm a Frontend Developer & Web Accessibility Advocate 
 
 - 🔭 I am currently working on a side project - WebStacky!
 - 🌱 I’m currently learning ways to make the web more accessible to everyone
