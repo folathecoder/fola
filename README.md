@@ -38,4 +38,9 @@
 
 [portfolio]: https://folarinakinloye.com/
 [twitter]: https://twitter.com/folathecoder
+[youtube]: https://youtube.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/akinloye-folarin
+[webdevplaylist]: #
+[jsplaylist]: #
+[cssplaylist]: #
+[reactplaylist]: #
