@@ -1,6 +1,6 @@
 ### Hi there, I'm Fola 👋
 
-[![Portfolio](https://img.shields.io/website?label=PORTFOLIO&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://folathecoder.netlify.app/)
+[![Portfolio](https://img.shields.io/website?label=PORTFOLIO&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://folarinakinloye.com/)
 
 ## I'm a Frontend Developer & Web Accessibility Advocate 
 
@@ -36,12 +36,6 @@
 ---
 
 
-[portfolio]: https://folathecoder.netlify.app/
-[course]: http://vsCodeHero.com
+[portfolio]: https://folarinakinloye.com/
 [twitter]: https://twitter.com/folathecoder
-[youtube]: https://youtube.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/akinloye-folarin
-[webdevplaylist]: #
-[jsplaylist]: #
-[cssplaylist]: #
-[reactplaylist]: #
