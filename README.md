@@ -36,7 +36,7 @@
 ---
 
 
-[portfolio]: https://folarinakinloye.com/
+[portfolio]: https://folarin.dev/
 [twitter]: https://twitter.com/folathecoder
 [youtube]: https://youtube.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/akinloye-folarin
