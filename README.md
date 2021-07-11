@@ -1,6 +1,6 @@
 ### Hi there, I'm Fola 👋
 
-[![Portfolio](https://img.shields.io/website?label=PORTFOLIO&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://folarinakinloye.com/)
+[![Portfolio](https://img.shields.io/website?label=PORTFOLIO&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://folarin.dev/)
 
 ## I'm a Frontend Developer & Web Accessibility Advocate 
 
