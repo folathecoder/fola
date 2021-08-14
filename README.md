@@ -2,13 +2,12 @@
 
 [![Portfolio](https://img.shields.io/website?label=PORTFOLIO&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://folarin.dev/)
 
-## I'm a Frontend Developer & Web Accessibility Advocate 
+## I'm a Software Developer & Blockchain Enthusiast 
 
-- 🔭 I am currently working on a side project - WebStacky!
-- 🌱 I’m currently learning ways to make the web more accessible to everyone
+- 🐱‍🏍 I’m currently learning ways to make the web more decentralized
 - 👯 I’m looking to collaborate with other developers or dev teams that want to make a change with code
-- 🥅 2021 Goals: Contribute more to Open Source projects and add more stacks under my belt (Solidity and Node.JS)
-- ⚡ Fun fact: I am also a professional Copywriter and Digital Marketer
+- 😎 2021 Goals: Contribute more to Open Source projects and add more stacks under my belt (React, TypeScript, Web3.JS, Solidity and Node.JS)
+- 💡 Fun fact: I am also a professional Copywriter and Digital Marketer
 
 
 ### Connect with me:
